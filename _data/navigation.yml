@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "About"
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "Photography"
+    url: /photography/
+  # - title: "Music"
+    # url: /music/

@@ -1,0 +1,96 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+html {
+  font-size: 11px; // change to whatever
+
+  @include breakpoint($medium) {
+    font-size: 13px; // change to whatever
+  }
+
+  @include breakpoint($large) {
+    font-size: 15px; // change to whatever
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 17px; // change to whatever
+  }
+}
+
+#main {
+  padding-top: 1em;
+}
+
+.sidebar {
+	opacity: 1;
+	transition: none;
+  padding-right: 5%;
+}
+
+.page {
+  font-family: "Avenir";
+	color: #424242;
+  word-break: break-word;
+  max-width: 100em;
+}
+
+.archive {
+  font-family: "Avenir";
+  color: #424242;
+  word-break: break-word;
+}
+
+.page a {
+	color: #607d8b;
+}
+
+.author__avatar img {
+  max-width: 200px;
+}
+
+.archive__item-title a {
+  color: #607d8b;
+}
+
+.half img {
+  display: block;
+  max-height: 300px;
+}
+
+.grid__item .archive__item-teaser {
+}
+
+.grid__item .archive__item-teaser img {
+  height: 100%;
+  object-fit: center;
+}
+
+figure.half>a, figure.half>img {
+    width: calc(100% - 0.5em);
+    height: auto;
+}
+
+.half img {
+    display: block;
+    max-height: none;
+}
+
+.paper_image {
+  width: 30%; 
+  display: inline-block; 
+  *display: inline; 
+  vertical-align: top;
+} 
+.paper_info {
+  width: 65%; 
+  display: inline-block; 
+  *display: inline; 
+  padding-left: 1em;
+  padding-bottom: 2em;
+}
