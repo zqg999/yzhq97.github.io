@@ -227,25 +227,27 @@ TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting
    <!-- <p><img src="motion_transfer_v3.jpg" width=100%></p> -->
 </div>
 
-<h4>We present a lightweight video motion retargeting approach that is capable of transferring motion in spite of structural and view-angle disparities between the source and the target.<h4>
+<h2>Introduction</h2>
+
+<p>We present a lightweight video motion retargeting approach that is capable of transferring motion in spite of structural and view-angle disparities between the source and the target.</p>
 <p align="center">
-  <img src="/assets/transmomo/dance.gif" width=80%>
+  <img src="/assets/transmomo/dance.gif" width="60%">
 </p>
 
 <h3>Framework</h3>
-<p>Without using any paired data for supervision, the proposed method can be trained in an unsupervised manner by exploiting invariance properties of three orthogonal factors of variation including motion, structure, and viewangle. Speciﬁcally, with loss functions carefully derived based on invariance, we train an auto-encoder to disentangle the latent representations of such factors given the source and target video clips.<p>
-<p align="center"><img src="/assets/transmomo/framework.gif" width=80%></p>
+<p>Without using any paired data for supervision, the proposed method can be trained in an unsupervised manner by exploiting invariance properties of three orthogonal factors of variation including motion, structure, and view-angle. Speciﬁcally, with loss functions carefully derived based on invariance, we train an auto-encoder to disentangle the latent representations of such factors given the source and target video clips.</p><p>
+</p><p align="center"><img src="/assets/transmomo/framework.gif" width="80%"></p>
 
 <!-- <h3>This allows us to selectively transfer motion extracted from the source video seamlessly to the target video in spite of structural and view-angle disparities between the source and the target.</h3>
 <p align="center"><img src="/assets/transmomo/dance.gif" width=65%></p> -->
 
 <h3>Latent Motion Representation</h3>
 <p>The learned latent representation is meaningful when interpolated. In this video, body structure is interpolated on the horizontal axis while motion is interpolated on the vertical axis.</p>
-<p align="center"><img src="/assets/transmomo/interpolate.gif" width=62%></p>
+<p align="center"><img src="/assets/transmomo/interpolate.gif" width="60%"></p>
 
-<h3>Synthesising novel views</h3>
-<p>we can explicitly manipulate the view of decoded skeleton in the 3D space, rotating it before projecting down to 2D.</p>
-<p align="center"><img src="/assets/transmomo/novel-view.gif" width=62%></p>
+<h3>Novel View Synthesis</h3>
+<p>We can explicitly manipulate the view of decoded skeleton in the 3D space, rotating it before projecting down to 2D.</p>
+<p align="center"><img src="/assets/transmomo/novel-view.gif" width="55%"></p>
 
 <!-- <h2 class="abstract"> Abstract </h2>
 <div class="text">We present a lightweight video motion retargeting approach that is capable of transferring motion of a person in a source video realistically to another video of a target person. Without using any paired data for supervision, the proposed method can be trained in an unsupervised manner by exploiting invariance properties of three orthogonal factors of variation including motion, structure, and viewangle. Speciﬁcally, with loss functions carefully derived based on invariance, we train an auto-encoder to disentangle the latent representations of such factors given the source and target video clips. This allows us to selectively transfer motion extracted from the source video seamlessly to the target video in spite of structural and view-angle disparities between the source and the target. The relaxed assumption of paired data allows our method to be trained on a vast amount of videos needless of manual annotation of source-target pairing, leading to improved robustness against large structural variations and extreme motion in videos. </div> -->
@@ -264,9 +266,9 @@ TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting
       
   <!-- <p>Bibilographic information for this work: </p> -->
 
-  <div class="text">Z. Yang*, W. Zhu*, W. Wu*, C. Qian, Q. Zhou, B. Zhou, C. C. Loy. "TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting." IEEE Conference on Computer
+  <p class="text">Z. Yang*, W. Zhu*, W. Wu*, C. Qian, Q. Zhou, B. Zhou, C. C. Loy. "TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting." IEEE Conference on Computer
   Vision and Pattern Recognition (<b>CVPR</b>), 2020. (* indicates equal contribution.)
-  </div>
+  </p>
 
 
   <p align="center"><b>Bibtex:</b></p>
@@ -288,5 +290,6 @@ TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting
 <br>
 
 </div>
+
 </body>
 </html>
