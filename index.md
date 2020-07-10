@@ -23,24 +23,6 @@ I am pursuing a Masters degree in Computer Vision at the Robotics Institute, Car
 <h3>Preprints</h3> 
 <hr>
 
-<div style="width: 100%">
-<div class="paper_image" style="width: 30%; display: inline-block; *display: inline; vertical-align: top;">
-	<img src="/assets/transmomo/dance.gif">
-</div>
-<div class="paper_info" style="width: 65%; display: inline-block; *display: inline; padding-left: 1em;padding-bottom: 2em;">
-
-<b>TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting</b>  
-<br>
-<small><b>Zhuoqian Yang*</b>, Wentao Zhu*, Wayne Wu*, Chen Qian, Qiang Zhou, Bolei Zhou, Chen Change Loy</small>  
-<br>
-<small>accepted in CVPR 2020</small> 
-<br> 
-<small>* equal contribution | <a href="https://arxiv.org/abs/2003.14401">paper</a> | <a href="/transmomo">project page</a>
-</small>
-
-</div>
-</div>
-
 
 <div style="width: 100%">
 <div class="paper_image" style="width: 30%; display: inline-block; *display: inline; vertical-align: top;">
@@ -51,8 +33,10 @@ I am pursuing a Masters degree in Computer Vision at the Robotics Institute, Car
 <b>A Large-scale Audio-visual Corpus for Emotional Talking-face Generation</b>  
 <br>
 <small>Kaisiyuan Wang*, Qianyi Wu*, Linsen Song*, <b>Zhuoqian Yang</b>, Wayne Wu, Chen Qian, Ran He, Yu Qiao, Chen Change Loy</small>  
+<br>
+<small>accepted in ECCV 2020</small>
 <br> 
-<small>* equal contribution | under review
+<small>* equal contribution
 </small>
 
 </div>
@@ -61,6 +45,25 @@ I am pursuing a Masters degree in Computer Vision at the Robotics Institute, Car
 
 <h3>Selected Publications</h3> 
 <hr>
+
+
+<div style="width: 100%">
+<div class="paper_image" style="width: 30%; display: inline-block; *display: inline; vertical-align: top;">
+	<img src="/assets/transmomo/dance.gif">
+</div>
+<div class="paper_info" style="width: 65%; display: inline-block; *display: inline; padding-left: 1em;padding-bottom: 2em;">
+
+<b>TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting</b>  
+<br>
+<small><b>Zhuoqian Yang*</b>, Wentao Zhu*, Wayne Wu*, Chen Qian, Qiang Zhou, Bolei Zhou, Chen Change Loy</small>  
+<br>
+<small>in CVPR 2020</small> 
+<br> 
+<small>* equal contribution | <a href="https://arxiv.org/abs/2003.14401">paper</a> | <a href="/transmomo">project page</a> | <a href="https://github.com/yzhq97/transmomo.pytorch">code</a>
+</small>
+
+</div>
+</div>
 
 
 <div style="width: 100%">
@@ -85,16 +88,17 @@ I am pursuing a Masters degree in Computer Vision at the Robotics Institute, Car
 
 <div style="width: 100%">
 <div class="paper_image" style="width: 30%; display: inline-block; *display: inline; vertical-align: top;">
-	<img src="/assets/images/cnnreg.png">
+	<img src="/assets/images/scenegcn.png">
 </div>
 <div class="paper_info" style="width: 65%; display: inline-block; *display: inline; padding-left: 1em;padding-bottom: 2em;">
 
-<b>Multi-Temporal Remote Sensing Image Registration Using Deep Convolutional Features</b>  
+<b>Scene Graph Reasoning with Prior Visual Relationship for Visual Question Answering</b>  
 <br>
-<small><b>Zhuoqian Yang</b>, Tingting Dan, Yang Yang</small> <br>
-<small>IEEE Access, vol.~6, pp.~38544--38555</small>  
+<small><b>Zhuoqian Yang</b>, Zengchang Qin, Jing Yu, Yue Hu</small> 
 <br>
-<small><a href="https://doi.org/10.1109/ACCESS.2018.2853100">paper</a> | <a href="https://github.com/yzhq97/cnn-registration.git">code</a></small>
+<small>in ICIP 2020</small> 
+<br>
+<small><a href="https://arxiv.org/abs/1812.09681">paper</a></small>
 
 </div>
 </div>
@@ -102,15 +106,17 @@ I am pursuing a Masters degree in Computer Vision at the Robotics Institute, Car
 
 <div style="width: 100%">
 <div class="paper_image" style="width: 30%; display: inline-block; *display: inline; vertical-align: top;">
-	<img src="/assets/images/scenegcn.png">
+	<img src="/assets/images/cnnreg.png">
 </div>
 <div class="paper_info" style="width: 65%; display: inline-block; *display: inline; padding-left: 1em;padding-bottom: 2em;">
 
-<b>Scene Graph Reasoning with Prior Visual Relationship for Visual Question Answering</b>  
+<b>Multi-Temporal Remote Sensing Image Registration Using Deep Convolutional Features</b>  
 <br>
-<small><b>Zhuoqian Yang</b>, Zengchang Qin, Jing Yu, Yue Hu</small>  
+<small><b>Zhuoqian Yang</b>, Tingting Dan, Yang Yang</small>
 <br>
-<small><a href="https://arxiv.org/abs/1812.09681">arxiv</a></small>
+<small>IEEE Access, vol.~6, pp.~38544--38555</small>  
+<br>
+<small><a href="https://doi.org/10.1109/ACCESS.2018.2853100">paper</a> | <a href="https://github.com/yzhq97/cnn-registration.git">code</a></small>
 
 </div>
 </div>
