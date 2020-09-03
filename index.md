@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 <p>
-I am pursuing a Masters degree in Computer Vision at the Robotics Institute, Carnegie Mellon University, working with <a href="https://laszlojeni.com">Dr. Laszlo Jeni</a> on the MSCV Capstone Project: <a href="https://mscvprojects.ri.cmu.edu/2020teaml/">Semantic Facial Image Manipulation using 2D/3D modalities</a>. I am actively looking for a full-time position starting Spring 2021. I worked as a research intern at SenseTime with <a href="http://wywu.github.io">Wayne Wu</a> and <a href="https://wentao.live">Wentao Zhu</a>. Previously, I was a research assistant at ICMLL, Beihang University, supervised by <a href="http://dsd.future-lab.cn/members/qin.html">Dr. Zengchang Qin</a>. Prior to that, I studied image registration under supervision of <a href="http://www.escience.cn/people/yyang/index.html">Yang Yang</a>.
+I am pursuing a Masters degree in Computer Vision at the Robotics Institute, Carnegie Mellon University, working with <a href="https://laszlojeni.com">Dr. Laszlo Jeni</a> and Koichiro Niinuma on the MSCV Capstone Project: <a href="https://mscvprojects.ri.cmu.edu/2020teaml/">Semantic Facial Image Manipulation using 2D/3D modalities</a>. I am actively looking for a full-time position starting Spring 2021. I worked as a research intern at SenseTime with <a href="http://wywu.github.io">Wayne Wu</a> and <a href="https://wentao.live">Wentao Zhu</a>. Previously, I was a research assistant at ICMLL, Beihang University, supervised by <a href="http://dsd.future-lab.cn/members/qin.html">Dr. Zengchang Qin</a>. Prior to that, I studied image registration under supervision of <a href="http://www.escience.cn/people/yyang/index.html">Yang Yang</a>.
 </p>
 
 <!-- ## Education
