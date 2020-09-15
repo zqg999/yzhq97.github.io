@@ -30,13 +30,13 @@ I am pursuing a Masters degree in Computer Vision at the Robotics Institute, Car
 </div>
 <div class="paper_info" style="width: 65%; display: inline-block; *display: inline; padding-left: 1em;padding-bottom: 2em;">
 
-<b>A Large-scale Audio-visual Corpus for Emotional Talking-face Generation</b>  
+<b>MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation</b>  
 <br>
 <small>Kaisiyuan Wang*, Qianyi Wu*, Linsen Song*, <b>Zhuoqian Yang</b>, Wayne Wu, Chen Qian, Ran He, Yu Qiao, Chen Change Loy</small>  
 <br>
 <small>accepted in ECCV 2020</small>
 <br> 
-<small>* equal contribution
+<small>* equal contribution | <a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660698.pdf">paper</a> | <a href="https://wywu.github.io/projects/MEAD/MEAD.html">project page</a> 
 </small>
 
 </div>
