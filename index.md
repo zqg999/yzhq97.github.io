@@ -20,8 +20,8 @@ I am pursuing a Masters degree in Computer Vision at the Robotics Institute, Car
 
 
 
-<h3>Preprints</h3> 
-<hr>
+<!-- <h3>Preprints</h3> 
+<hr> -->
 
 
 <h3>Selected Publications</h3> 
