@@ -24,25 +24,6 @@ I am pursuing a Masters degree in Computer Vision at the Robotics Institute, Car
 <hr>
 
 
-<div style="width: 100%">
-<div class="paper_image" style="width: 30%; display: inline-block; *display: inline; vertical-align: top;">
-	<img src="/assets/images/mead.jpg">
-</div>
-<div class="paper_info" style="width: 65%; display: inline-block; *display: inline; padding-left: 1em;padding-bottom: 2em;">
-
-<b>MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation</b>  
-<br>
-<small>Kaisiyuan Wang*, Qianyi Wu*, Linsen Song*, <b>Zhuoqian Yang</b>, Wayne Wu, Chen Qian, Ran He, Yu Qiao, Chen Change Loy</small>  
-<br>
-<small>accepted in ECCV 2020</small>
-<br> 
-<small>* equal contribution | <a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660698.pdf">paper</a> | <a href="https://wywu.github.io/projects/MEAD/MEAD.html">project page</a> 
-</small>
-
-</div>
-</div>
-
-
 <h3>Selected Publications</h3> 
 <hr>
 
@@ -60,6 +41,25 @@ I am pursuing a Masters degree in Computer Vision at the Robotics Institute, Car
 <small>in CVPR 2020</small> 
 <br> 
 <small>* equal contribution | <a href="https://arxiv.org/abs/2003.14401">paper</a> | <a href="/transmomo">project page</a> | <a href="https://github.com/yzhq97/transmomo.pytorch">code</a>
+</small>
+
+</div>
+</div>
+
+
+<div style="width: 100%">
+<div class="paper_image" style="width: 30%; display: inline-block; *display: inline; vertical-align: top;">
+	<img src="/assets/images/mead.jpg">
+</div>
+<div class="paper_info" style="width: 65%; display: inline-block; *display: inline; padding-left: 1em;padding-bottom: 2em;">
+
+<b>MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation</b>  
+<br>
+<small>Kaisiyuan Wang*, Qianyi Wu*, Linsen Song*, <b>Zhuoqian Yang</b>, Wayne Wu, Chen Qian, Ran He, Yu Qiao, Chen Change Loy</small>  
+<br>
+<small>in ECCV 2020</small>
+<br> 
+<small>* equal contribution | <a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660698.pdf">paper</a> | <a href="https://wywu.github.io/projects/MEAD/MEAD.html">project page</a> 
 </small>
 
 </div>
