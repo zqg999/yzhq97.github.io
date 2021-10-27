@@ -10,8 +10,7 @@ redirect_from:
 ---
 
 <p>
-I recently obtained a Masters degree in Computer Vision at the Robotics Institute, Carnegie Mellon University, working with <a href="https://laszlojeni.com">Dr. Laszlo Jeni</a> and Koichiro Niinuma on the MSCV Capstone Project: <a href="https://mscvprojects.ri.cmu.edu/2020teaml/">Semantic Facial Image Manipulation using 2D/3D modalities</a>. I will be joining SenseTime as a researcher where I previously worked as a research intern with <a href="http://wywu.github.io">Wayne Wu</a> and <a href="https://wentao.live">Wentao Zhu</a>. I was a research assistant at ICMLL, Beihang University, supervised by <a href="http://dsd.future-lab.cn/members/qin.html">Dr. Zengchang Qin</a>. Prior to that, I studied image registration under supervision of <a href="http://www.escience.cn/people/yyang/index.html">Yang Yang</a>.
-</p>
+I am currently a full-time researcher at SenseTime working with Prof. <a href="http://daibo.info">Bo Dai</a> and Dr. <a href="http://wywu.github.io">Wayne Wu</a>. I obtained my Masters degree in Computer Vision at the Robotics Institute, Carnegie Mellon University, working with <a href="https://laszlojeni.com">Dr. Laszlo Jeni</a>. Prior to that, I was a research assistant at ICMLL, Beihang University, supervised by Prof. <a href="http://dsd.future-lab.cn/members/qin.html">Zengchang Qin</a>.
 
 <!-- ## Education
 
@@ -24,7 +23,7 @@ I recently obtained a Masters degree in Computer Vision at the Robotics Institut
 <hr> -->
 
 
-<h3>Selected Publications</h3> 
+<h3>Publications and Projects</h3> 
 <hr>
 
 
@@ -41,6 +40,26 @@ I recently obtained a Masters degree in Computer Vision at the Robotics Institut
 <small>in CVPR 2020</small> 
 <br> 
 <small>* equal contribution | <a href="https://arxiv.org/abs/2003.14401">paper</a> | <a href="/transmomo">project page</a> | <a href="https://github.com/yzhq97/transmomo.pytorch">code</a>
+</small>
+
+</div>
+</div>
+
+<div style="width: 100%">
+<div class="paper_image" style="width: 30%; display: inline-block; *display: inline; vertical-align: top;">
+	<img src="https://mscvprojects.ri.cmu.edu/2020teaml/wp-content/uploads/sites/42/2020/12/Screen-Shot-2020-12-16-at-5.33.32-PM.png">
+</div>
+<div class="paper_info" style="width: 65%; display: inline-block; *display: inline; padding-left: 1em;padding-bottom: 2em;">
+
+<b>Semantic Facial Image Manipulation using 2D/3D modalities</b>  
+<br>
+<small><b>Zhuoqian Yang</b>, Dai Li, Koichiro Niinuma, Laszlo Jeni</small>  
+<br>
+<small>CMU MSCV Capstone Project</small> 
+<br>
+<small>Sponsor: Fujitsu Research of America</small>
+<br> 
+<small><a href="https://mscvprojects.ri.cmu.edu/2020teaml/">project page</a> | <a href="https://drive.google.com/file/d/1D3j0kUt1zUoIxJmaxSa6f755CROW4VT1/view?usp=drive_open">presentation</a> | <a href="https://drive.google.com/file/d/1t5sisVPomk1H9RFyCh6iVOIY3lyaPUlm/view">slides</a>
 </small>
 
 </div>

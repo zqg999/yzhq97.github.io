@@ -20,7 +20,7 @@ title                    : "Zhuoqian Yang"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Zhuoqian Yang"
-description              : "MSCV Student at CMU"
+description              : "Full-time Researcher at Sensetime"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Zhuoqian Yang"
   avatar           : "/assets/images/me_tele.jpg"
-  bio              : "MSCV@CMU"
-  location         : "Pittsburgh, PA, US"
+  bio              : "Full-time Researcher at Sensetime"
+  location         : "Shanghai, China"
   email            : yzhq97 [at] gmail.com
   links:
     - label: "Google Scholar"
