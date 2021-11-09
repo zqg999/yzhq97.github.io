@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 <p>
-I am currently a full-time researcher at SenseTime working with Prof. <a href="http://daibo.info">Bo Dai</a> and Dr. <a href="http://wywu.github.io">Wayne Wu</a>. I obtained my Masters degree in Computer Vision at the Robotics Institute, Carnegie Mellon University, working with <a href="https://laszlojeni.com">Dr. Laszlo Jeni</a>. Prior to that, I was a research assistant at ICMLL, Beihang University, supervised by Prof. <a href="http://dsd.future-lab.cn/members/qin.html">Zengchang Qin</a>.
+I am currently a full-time researcher at SenseTime working with Prof. <a href="http://daibo.info">Bo Dai</a> and Dr. <a href="http://wywu.github.io">Wayne Wu</a>. I obtained my Master's degree in Computer Vision at the Robotics Institute, Carnegie Mellon University, working with <a href="https://laszlojeni.com">Dr. Laszlo Jeni</a>. Prior to that, I obtained my Bachelor's degree in Software Engineering at Beihang University. I worked with Prof. <a href="http://dsd.future-lab.cn/members/qin.html">Zengchang Qin</a> and <a href="https://www.researchgate.net/profile/Yang-Yang-219">Prof. Yang Yang.</a>
 
 <!-- ## Education
 
@@ -47,7 +47,7 @@ I am currently a full-time researcher at SenseTime working with Prof. <a href="h
 
 <div style="width: 100%">
 <div class="paper_image" style="width: 30%; display: inline-block; *display: inline; vertical-align: top;">
-	<img src="https://mscvprojects.ri.cmu.edu/2020teaml/wp-content/uploads/sites/42/2020/12/Screen-Shot-2020-12-16-at-5.33.32-PM.png">
+	<img src="https://mscvprojects.ri.cmu.edu/2020teaml/wp-content/uploads/sites/42/2020/05/rough_pipeline-768x296.png">
 </div>
 <div class="paper_info" style="width: 65%; display: inline-block; *display: inline; padding-left: 1em;padding-bottom: 2em;">
 
@@ -58,9 +58,9 @@ I am currently a full-time researcher at SenseTime working with Prof. <a href="h
 <small>CMU MSCV Capstone Project</small> 
 <br>
 <small>Sponsor: Fujitsu Research of America</small>
-<br> 
+<!-- <br> 
 <small><a href="https://mscvprojects.ri.cmu.edu/2020teaml/">project page</a> | <a href="https://drive.google.com/file/d/1D3j0kUt1zUoIxJmaxSa6f755CROW4VT1/view?usp=drive_open">presentation</a> | <a href="https://drive.google.com/file/d/1t5sisVPomk1H9RFyCh6iVOIY3lyaPUlm/view">slides</a>
-</small>
+</small> -->
 
 </div>
 </div>
