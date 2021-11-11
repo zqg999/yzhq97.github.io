@@ -58,9 +58,8 @@ I am currently a full-time researcher at SenseTime working with Prof. <a href="h
 <small>CMU MSCV Capstone Project</small> 
 <br>
 <small>Sponsor: Fujitsu Research of America</small>
-<!-- <br> 
-<small><a href="https://mscvprojects.ri.cmu.edu/2020teaml/">project page</a> | <a href="https://drive.google.com/file/d/1D3j0kUt1zUoIxJmaxSa6f755CROW4VT1/view?usp=drive_open">presentation</a> | <a href="https://drive.google.com/file/d/1t5sisVPomk1H9RFyCh6iVOIY3lyaPUlm/view">slides</a>
-</small> -->
+<small><a href="https://mscvprojects.ri.cmu.edu/2020teaml/">project page</a> | <a href="https://drive.google.com/file/d/1UbTcLudyGlr4OiP10rQ53OjattXGkA5B/view?usp=sharing">slides</a>
+</small>
 
 </div>
 </div>
