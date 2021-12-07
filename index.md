@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 <p>
-I am currently a full-time researcher at SenseTime working with Prof. <a href="http://daibo.info">Bo Dai</a> and Dr. <a href="http://wywu.github.io">Wayne Wu</a>. I obtained my Masters degree in Computer Vision at the Robotics Institute, Carnegie Mellon University, working with <a href="https://laszlojeni.com">Dr. Laszlo Jeni</a>. Prior to that, I was a research assistant at ICMLL, Beihang University, supervised by Prof. <a href="http://dsd.future-lab.cn/members/qin.html">Zengchang Qin</a>.
+I am currently a full-time researcher at SenseTime working with Prof. <a href="http://daibo.info">Bo Dai</a> and Dr. <a href="http://wywu.github.io">Wayne Wu</a>. I obtained my Master's degree in Computer Vision at the Robotics Institute, Carnegie Mellon University, working with <a href="https://laszlojeni.com">Dr. Laszlo Jeni</a>. Prior to that, I obtained my Bachelor's degree in Software Engineering at Beihang University. I worked with Prof. <a href="http://dsd.future-lab.cn/members/qin.html">Zengchang Qin</a> and <a href="https://www.researchgate.net/profile/Yang-Yang-219">Prof. Yang Yang</a> during that time.
 
 <!-- ## Education
 
@@ -58,8 +58,7 @@ I am currently a full-time researcher at SenseTime working with Prof. <a href="h
 <small style="color:#8b0000;">CMU </small><small>MSCV Capstone Project</small> 
 <br>
 <small>Sponsor: Fujitsu Research of America</small>
-<br> 
-<small><a href="https://mscvprojects.ri.cmu.edu/2020teaml/">project page</a> | <a href="https://drive.google.com/file/d/1D3j0kUt1zUoIxJmaxSa6f755CROW4VT1/view?usp=drive_open">presentation</a> | <a href="https://drive.google.com/file/d/1t5sisVPomk1H9RFyCh6iVOIY3lyaPUlm/view">slides</a>
+<small><a href="https://mscvprojects.ri.cmu.edu/2020teaml/">project page</a> | <a href="https://drive.google.com/file/d/1UbTcLudyGlr4OiP10rQ53OjattXGkA5B/view?usp=sharing">slides</a>
 </small>
 
 </div>
