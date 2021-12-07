@@ -55,7 +55,7 @@ I am currently a full-time researcher at SenseTime working with Prof. <a href="h
 <br>
 <small><b>Zhuoqian Yang</b>, Dai Li, Koichiro Niinuma, Laszlo Jeni</small>  
 <br>
-<small style="color:#8b0000;">CMU </small><small>MSCV Capstone Project</small> 
+<small style="color:#8b0000;"><b>CMU </b></small><small><b>MSCV Capstone Project</b></small> 
 <br>
 <small>Sponsor: Fujitsu Research of America</small>
 <small><a href="https://mscvprojects.ri.cmu.edu/2020teaml/">project page</a> | <a href="https://drive.google.com/file/d/1UbTcLudyGlr4OiP10rQ53OjattXGkA5B/view?usp=sharing">slides</a>
