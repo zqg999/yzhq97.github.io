@@ -37,7 +37,7 @@ I am currently a full-time researcher at SenseTime working with Prof. <a href="h
 <br>
 <small><b>Zhuoqian Yang*</b>, Wentao Zhu*, Wayne Wu*, Chen Qian, Qiang Zhou, Bolei Zhou, Chen Change Loy</small>  
 <br>
-<small>in CVPR 2020</small> 
+<small>in <b>CVPR 2020</b></small> 
 <br> 
 <small>* equal contribution | <a href="https://arxiv.org/abs/2003.14401">paper</a> | <a href="/transmomo">project page</a> | <a href="https://github.com/yzhq97/transmomo.pytorch">code</a>
 </small>
@@ -47,7 +47,7 @@ I am currently a full-time researcher at SenseTime working with Prof. <a href="h
 
 <div style="width: 100%">
 <div class="paper_image" style="width: 30%; display: inline-block; *display: inline; vertical-align: top;">
-	<img src="https://mscvprojects.ri.cmu.edu/2020teaml/wp-content/uploads/sites/42/2020/12/Screen-Shot-2020-12-16-at-5.33.32-PM.png">
+	<img src="/assets/images/sfim.png">
 </div>
 <div class="paper_info" style="width: 65%; display: inline-block; *display: inline; padding-left: 1em;padding-bottom: 2em;">
 
@@ -55,7 +55,7 @@ I am currently a full-time researcher at SenseTime working with Prof. <a href="h
 <br>
 <small><b>Zhuoqian Yang</b>, Dai Li, Koichiro Niinuma, Laszlo Jeni</small>  
 <br>
-<small>CMU MSCV Capstone Project</small> 
+<small style="color:#8b0000;">CMU </small><small>MSCV Capstone Project</small> 
 <br>
 <small>Sponsor: Fujitsu Research of America</small>
 <br> 
@@ -76,7 +76,7 @@ I am currently a full-time researcher at SenseTime working with Prof. <a href="h
 <br>
 <small>Kaisiyuan Wang*, Qianyi Wu*, Linsen Song*, <b>Zhuoqian Yang</b>, Wayne Wu, Chen Qian, Ran He, Yu Qiao, Chen Change Loy</small>  
 <br>
-<small>in ECCV 2020</small>
+<small>in <b>ECCV 2020</b></small>
 <br> 
 <small>* equal contribution | <a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660698.pdf">paper</a> | <a href="https://wywu.github.io/projects/MEAD/MEAD.html">project page</a> 
 </small>
@@ -97,7 +97,7 @@ I am currently a full-time researcher at SenseTime working with Prof. <a href="h
 <br>
 <small><b>Zhuoqian Yang</b>, Yang Yang, Kun Yang, Ziquan Wei</small>  
 <br>
-<small>IEEE Transactions on Image Processing, 28(5), 2584-2598</small>  
+<small><b>IEEE Transactions on Image Processing</b>, 28(5), 2584-2598</small>  
 <br>
 <small><a href="https://doi.org/10.1109/TIP.2018.2887204">paper</a></small>
 
@@ -115,7 +115,7 @@ I am currently a full-time researcher at SenseTime working with Prof. <a href="h
 <br>
 <small><b>Zhuoqian Yang</b>, Zengchang Qin, Jing Yu, Yue Hu</small> 
 <br>
-<small>in ICIP 2020</small> 
+<small>in <b>ICIP 2020</b></small> 
 <br>
 <small><a href="https://arxiv.org/abs/1812.09681">paper</a></small>
 
@@ -133,7 +133,7 @@ I am currently a full-time researcher at SenseTime working with Prof. <a href="h
 <br>
 <small><b>Zhuoqian Yang</b>, Tingting Dan, Yang Yang</small>
 <br>
-<small>IEEE Access, vol.~6, pp.~38544--38555</small>  
+<small><b>IEEE Access</b>, vol.~6, pp.~38544--38555</small>  
 <br>
 <small><a href="https://doi.org/10.1109/ACCESS.2018.2853100">paper</a> | <a href="https://github.com/yzhq97/cnn-registration.git">code</a></small>
 
