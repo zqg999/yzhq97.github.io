@@ -27,6 +27,29 @@ I am currently a full-time researcher at SenseTime working with Prof. <a href="h
 <hr>
 
 
+<!-- ---------------------------------------------------------- -->
+
+
+<div style="width: 100%">
+<div class="paper_image" style="width: 30%; display: inline-block; *display: inline; vertical-align: top;">
+	<img src="/assets/mocanet/teaser.png">
+</div>
+<div class="paper_info" style="width: 65%; display: inline-block; *display: inline; padding-left: 1em;padding-bottom: 2em;">
+
+<b>MoCaNet: Motion Retargeting in-the-wild via Canonicalization Networks</b>  
+<br>
+<small>Wentao Zhu*, <b>Zhuoqian Yang*</b>, Ziang Di, Wayne Wu, Yizhou Wang, Chen Change Loy</small>  
+<br>
+<small>in <b>AAAI 2022</b></small> 
+<br> 
+<small>* equal contribution | <a href="https://arxiv.org/abs/2112.10082">paper</a> | <a href="/mocanet">project page</a> | <a href="/assets/mocanet/poster.pdf">poster</a>
+</small>
+
+</div>
+</div>
+
+<!-- ---------------------------------------------------------- -->
+
 <div style="width: 100%">
 <div class="paper_image" style="width: 30%; display: inline-block; *display: inline; vertical-align: top;">
 	<img src="/assets/transmomo/dance.gif">
@@ -44,6 +67,8 @@ I am currently a full-time researcher at SenseTime working with Prof. <a href="h
 
 </div>
 </div>
+
+<!-- ---------------------------------------------------------- -->
 
 <div style="width: 100%">
 <div class="paper_image" style="width: 30%; display: inline-block; *display: inline; vertical-align: top;">
@@ -64,6 +89,7 @@ I am currently a full-time researcher at SenseTime working with Prof. <a href="h
 </div>
 </div>
 
+<!-- ---------------------------------------------------------- -->
 
 <div style="width: 100%">
 <div class="paper_image" style="width: 30%; display: inline-block; *display: inline; vertical-align: top;">
@@ -83,6 +109,7 @@ I am currently a full-time researcher at SenseTime working with Prof. <a href="h
 </div>
 </div>
 
+<!-- ---------------------------------------------------------- -->
 
 <div style="width: 100%">
 
@@ -103,6 +130,7 @@ I am currently a full-time researcher at SenseTime working with Prof. <a href="h
 </div>
 </div>
 
+<!-- ---------------------------------------------------------- -->
 
 <div style="width: 100%">
 <div class="paper_image" style="width: 30%; display: inline-block; *display: inline; vertical-align: top;">
@@ -121,6 +149,7 @@ I am currently a full-time researcher at SenseTime working with Prof. <a href="h
 </div>
 </div>
 
+<!-- ---------------------------------------------------------- -->
 
 <div style="width: 100%">
 <div class="paper_image" style="width: 30%; display: inline-block; *display: inline; vertical-align: top;">
